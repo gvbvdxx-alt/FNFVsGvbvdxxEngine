@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				0
+			],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "Eibo Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Eibo Right"
+		},
+		{
+			"offsets": [
+				18,
+				20
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Eibo Left"
+		},
+		{
+			"offsets": [
+				-23,
+				108
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Eibo Up"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Eibo Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eibo",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "icon-eibo",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

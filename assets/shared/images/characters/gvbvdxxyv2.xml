@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gvbvdxxyv2.png">
+<SubTexture name="gvbvdxxyv2 down0000" x="267" y="338" width="133" height="100" frameX="-56" frameY="-63" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 down0001" x="374" y="0" width="124" height="105" frameX="-61" frameY="-58" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 idle0000" x="0" y="118" width="128" height="110" frameX="-67" frameY="-50" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 idle0001" x="498" y="0" width="146" height="100" frameX="-67" frameY="-60" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 idle0002" x="130" y="228" width="137" height="108" frameX="-67" frameY="-52" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 idle0003" x="241" y="0" width="133" height="110" frameX="-67" frameY="-50" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 idle0004" x="0" y="118" width="128" height="110" frameX="-67" frameY="-50" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 left0000" x="241" y="110" width="127" height="110" frameX="-61" frameY="-50" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 left0001" x="0" y="228" width="130" height="110" frameX="-64" frameY="-50" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 right0000" x="132" y="338" width="135" height="101" frameX="-73" frameY="-59" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 right0001" x="0" y="338" width="132" height="104" frameX="-73" frameY="-56" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 up0000" x="0" y="0" width="117" height="118" frameX="-67" frameY="-43" frameWidth="243" frameHeight="210" />
+<SubTexture name="gvbvdxxyv2 up0001" x="117" y="0" width="124" height="114" frameX="-64" frameY="-47" frameWidth="243" frameHeight="210" />
+</TextureAtlas>

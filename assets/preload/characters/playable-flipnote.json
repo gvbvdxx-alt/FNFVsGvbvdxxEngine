@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "playable-flipnote idle"
+		},
+		{
+			"offsets": [
+				-23,
+				-13
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote right"
+		},
+		{
+			"offsets": [
+				-9,
+				-2
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote left"
+		},
+		{
+			"offsets": [
+				-28,
+				-52
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote up"
+		},
+		{
+			"offsets": [
+				-9,
+				11
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote down"
+		},
+		{
+			"offsets": [
+				62,
+				0
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote downmiss"
+		},
+		{
+			"offsets": [
+				-30,
+				2
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote upmiss"
+		},
+		{
+			"offsets": [
+				-9,
+				-12
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singLEFTmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote rightmiss"
+		},
+		{
+			"offsets": [
+				-11,
+				-10
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "playable-flipnote leftmiss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/playable-flipnote",
+	"position": [
+		220,
+		350
+	],
+	"healthicon": "playable-flipnote",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		320,
+		-420
+	],
+	"sing_duration": 6.7,
+	"scale": 2.5
+}

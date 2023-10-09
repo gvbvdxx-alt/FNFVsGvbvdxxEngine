@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jokesonic.png">
+<SubTexture name="jokesonic down0000" x="221" y="0" width="53" height="84" frameX="-32" frameY="-14" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic down0001" x="102" y="91" width="47" height="85" frameX="-35" frameY="-13" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic idle0000" x="60" y="0" width="51" height="88" frameX="-35" frameY="-9" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic idle0001" x="0" y="177" width="53" height="83" frameX="-32" frameY="-14" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic idle0002" x="0" y="91" width="51" height="86" frameX="-34" frameY="-11" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic idle0003" x="170" y="0" width="51" height="87" frameX="-35" frameY="-10" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic idle0004" x="60" y="0" width="51" height="88" frameX="-35" frameY="-9" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic left0000" x="221" y="84" width="52" height="84" frameX="-31" frameY="-13" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic left0001" x="51" y="91" width="51" height="86" frameX="-34" frameY="-11" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic right0000" x="53" y="177" width="55" height="83" frameX="-36" frameY="-14" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic right0001" x="149" y="91" width="53" height="85" frameX="-35" frameY="-13" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic up0000" x="0" y="0" width="60" height="91" frameX="-26" frameY="-7" frameWidth="112" frameHeight="108" />
+<SubTexture name="jokesonic up0001" x="111" y="0" width="59" height="88" frameX="-26" frameY="-11" frameWidth="112" frameHeight="108" />
+</TextureAtlas>

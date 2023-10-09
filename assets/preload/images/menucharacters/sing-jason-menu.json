@@ -1,0 +1,10 @@
+{
+	"idle_anim": "sing-jason-menu idle",
+	"image": "sing-jason-menu",
+	"position": [
+		0,
+		0
+	],
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}

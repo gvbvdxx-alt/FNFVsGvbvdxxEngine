@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="segt v2.png">
+<SubTexture name="segt v2 down0000" x="167" y="418" width="173" height="205" frameX="-36" frameY="-27" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 down0001" x="503" y="0" width="170" height="207" frameX="-39" frameY="-25" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 down0002" x="340" y="418" width="169" height="205" frameX="-40" frameY="-27" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 idle0000" x="336" y="0" width="167" height="208" frameX="-42" frameY="-24" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 idle0001" x="174" y="624" width="180" height="190" frameX="-38" frameY="-42" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 idle0002" x="0" y="624" width="174" height="197" frameX="-39" frameY="-35" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 idle0003" x="673" y="0" width="167" height="205" frameX="-42" frameY="-27" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 idle0004" x="336" y="0" width="167" height="208" frameX="-42" frameY="-24" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 left0000" x="0" y="210" width="167" height="208" frameX="-42" frameY="-24" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 left0001" x="0" y="210" width="167" height="208" frameX="-42" frameY="-24" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 left0002" x="0" y="210" width="167" height="208" frameX="-42" frameY="-24" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 right0000" x="167" y="0" width="169" height="209" frameX="-40" frameY="-23" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 right0001" x="167" y="210" width="167" height="208" frameX="-42" frameY="-24" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 right0002" x="334" y="210" width="168" height="208" frameX="-41" frameY="-24" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 up0000" x="0" y="0" width="167" height="210" frameX="-42" frameY="-22" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 up0001" x="0" y="418" width="167" height="206" frameX="-42" frameY="-26" frameWidth="261" frameHeight="262" />
+<SubTexture name="segt v2 up0002" x="503" y="207" width="167" height="207" frameX="-42" frameY="-25" frameWidth="261" frameHeight="262" />
+</TextureAtlas>

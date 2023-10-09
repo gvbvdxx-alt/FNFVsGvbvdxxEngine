@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="segt.png">
+<SubTexture name="segt down0000" x="199" y="0" width="191" height="269" frameX="0" frameY="0" frameWidth="191" frameHeight="269" />
+<SubTexture name="segt down0001" x="620" y="0" width="189" height="268" frameX="0" frameY="0" frameWidth="189" frameHeight="268" />
+<SubTexture name="segt down0002" x="620" y="268" width="189" height="266" frameX="0" frameY="0" frameWidth="189" frameHeight="266" />
+<SubTexture name="segt left0000" x="193" y="542" width="197" height="264" frameX="0" frameY="0" frameWidth="197" frameHeight="264" />
+<SubTexture name="segt left0001" x="1004" y="0" width="197" height="263" frameX="0" frameY="0" frameWidth="197" frameHeight="263" />
+<SubTexture name="segt left0002" x="1004" y="526" width="196" height="262" frameX="0" frameY="0" frameWidth="196" frameHeight="262" />
+<SubTexture name="segt right0000" x="390" y="0" width="230" height="269" frameX="0" frameY="0" frameWidth="230" frameHeight="269" />
+<SubTexture name="segt right0001" x="0" y="808" width="234" height="245" frameX="0" frameY="0" frameWidth="234" frameHeight="245" />
+<SubTexture name="segt right0002" x="234" y="808" width="246" height="209" frameX="0" frameY="0" frameWidth="246" frameHeight="209" />
+<SubTexture name="segt up0000" x="390" y="542" width="204" height="264" frameX="0" frameY="0" frameWidth="204" frameHeight="264" />
+<SubTexture name="segt up0001" x="0" y="273" width="204" height="269" frameX="0" frameY="0" frameWidth="204" frameHeight="269" />
+<SubTexture name="segt up0002" x="0" y="0" width="199" height="273" frameX="0" frameY="0" frameWidth="199" frameHeight="273" />
+<SubTexture name="segt idle0000" x="204" y="273" width="195" height="269" frameX="0" frameY="0" frameWidth="195" frameHeight="269" />
+<SubTexture name="segt idle0001" x="1004" y="263" width="194" height="263" frameX="0" frameY="0" frameWidth="194" frameHeight="263" />
+<SubTexture name="segt idle0002" x="594" y="542" width="193" height="264" frameX="0" frameY="0" frameWidth="193" frameHeight="264" />
+<SubTexture name="segt idle0003" x="0" y="542" width="193" height="266" frameX="0" frameY="0" frameWidth="193" frameHeight="266" />
+<SubTexture name="segt idle0004" x="809" y="0" width="195" height="264" frameX="0" frameY="0" frameWidth="195" frameHeight="264" />
+<SubTexture name="segt idle0005" x="399" y="273" width="195" height="269" frameX="0" frameY="0" frameWidth="195" frameHeight="269" />
+</TextureAtlas>

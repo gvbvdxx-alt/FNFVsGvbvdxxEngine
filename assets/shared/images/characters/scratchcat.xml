@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scratchcat.png">
+<SubTexture name="scratchcat down0000" x="470" y="0" width="106" height="99" frameX="-19" frameY="-29" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat down0001" x="470" y="0" width="106" height="99" frameX="-19" frameY="-29" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat down0002" x="212" y="358" width="103" height="100" frameX="-19" frameY="-28" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat down0003" x="369" y="217" width="101" height="100" frameX="-19" frameY="-28" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat down0004" x="315" y="358" width="101" height="100" frameX="-19" frameY="-28" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat idle0000" x="91" y="241" width="98" height="110" frameX="-22" frameY="-18" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat idle0001" x="105" y="358" width="107" height="106" frameX="-22" frameY="-22" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat idle0002" x="0" y="358" width="105" height="107" frameX="-22" frameY="-21" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat idle0003" x="369" y="0" width="101" height="109" frameX="-22" frameY="-19" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat idle0004" x="91" y="241" width="98" height="110" frameX="-22" frameY="-18" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat left0000" x="94" y="0" width="83" height="119" frameX="-17" frameY="-9" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat left0001" x="0" y="123" width="83" height="118" frameX="-19" frameY="-10" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat left0002" x="83" y="123" width="84" height="118" frameX="-20" frameY="-10" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat right0000" x="275" y="0" width="94" height="117" frameX="-26" frameY="-11" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat right0001" x="275" y="117" width="92" height="117" frameX="-25" frameY="-11" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat right0002" x="0" y="241" width="91" height="117" frameX="-25" frameY="-11" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat up0000" x="0" y="0" width="94" height="123" frameX="-22" frameY="-5" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat up0001" x="177" y="0" width="98" height="119" frameX="-21" frameY="-9" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat up0002" x="167" y="123" width="101" height="118" frameX="-20" frameY="-10" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat miss0000" x="189" y="241" width="98" height="110" frameX="-22" frameY="-18" frameWidth="141" frameHeight="134" />
+<SubTexture name="scratchcat miss0001" x="369" y="109" width="99" height="108" frameX="-22" frameY="-20" frameWidth="141" frameHeight="134" />
+</TextureAtlas>

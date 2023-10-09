@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SonicDancing.png">
+<SubTexture name="SonicDancing Down0000" x="610" y="121" width="129" height="118" frameX="0" frameY="0" frameWidth="129" frameHeight="118" />
+<SubTexture name="SonicDancing Down0001" x="610" y="0" width="129" height="121" frameX="0" frameY="0" frameWidth="129" frameHeight="121" />
+<SubTexture name="SonicDancing Idle0000" x="236" y="0" width="128" height="167" frameX="0" frameY="0" frameWidth="128" frameHeight="167" />
+<SubTexture name="SonicDancing Idle0001" x="372" y="350" width="128" height="156" frameX="0" frameY="0" frameWidth="128" frameHeight="156" />
+<SubTexture name="SonicDancing Idle0002" x="482" y="162" width="128" height="160" frameX="0" frameY="0" frameWidth="128" frameHeight="160" />
+<SubTexture name="SonicDancing Idle0003" x="364" y="0" width="118" height="163" frameX="0" frameY="0" frameWidth="118" frameHeight="163" />
+<SubTexture name="SonicDancing Idle0004" x="0" y="183" width="116" height="167" frameX="0" frameY="0" frameWidth="116" frameHeight="167" />
+<SubTexture name="SonicDancing Idle0005" x="364" y="163" width="114" height="163" frameX="0" frameY="0" frameWidth="114" frameHeight="163" />
+<SubTexture name="SonicDancing Idle0006" x="0" y="350" width="114" height="160" frameX="0" frameY="0" frameWidth="114" frameHeight="160" />
+<SubTexture name="SonicDancing Idle0007" x="364" y="0" width="118" height="163" frameX="0" frameY="0" frameWidth="118" frameHeight="163" />
+<SubTexture name="SonicDancing Up0000" x="0" y="0" width="118" height="183" frameX="0" frameY="0" frameWidth="118" frameHeight="183" />
+<SubTexture name="SonicDancing Up0001" x="118" y="0" width="118" height="181" frameX="0" frameY="0" frameWidth="118" frameHeight="181" />
+<SubTexture name="SonicDancing Left0000" x="482" y="0" width="128" height="162" frameX="0" frameY="0" frameWidth="128" frameHeight="162" />
+<SubTexture name="SonicDancing Left0001" x="116" y="183" width="136" height="165" frameX="0" frameY="0" frameWidth="136" frameHeight="165" />
+<SubTexture name="SonicDancing Right0000" x="114" y="350" width="129" height="160" frameX="0" frameY="0" frameWidth="129" frameHeight="160" />
+<SubTexture name="SonicDancing Right0001" x="243" y="350" width="129" height="160" frameX="0" frameY="0" frameWidth="129" frameHeight="160" />
+</TextureAtlas>

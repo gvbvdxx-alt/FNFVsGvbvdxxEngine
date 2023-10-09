@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tail.png">
+<SubTexture name="Tail bouncyidle0000" x="428" y="0" width="427" height="909" frameX="-119" frameY="-60" frameWidth="682" frameHeight="987" />
+<SubTexture name="Tail bouncyidle0001" x="1753" y="0" width="492" height="854" frameX="-84" frameY="-115" frameWidth="682" frameHeight="987" />
+<SubTexture name="Tail bouncyidle0002" x="1288" y="0" width="465" height="891" frameX="-89" frameY="-78" frameWidth="682" frameHeight="987" />
+<SubTexture name="Tail bouncyidle0003" x="0" y="0" width="428" height="936" frameX="-118" frameY="-33" frameWidth="682" frameHeight="987" />
+<SubTexture name="Tail bouncyidle0004" x="855" y="0" width="433" height="903" frameX="-113" frameY="-66" frameWidth="682" frameHeight="987" />
+</TextureAtlas>

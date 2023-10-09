@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 20,
+			"name": "jasonnewer dance",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "jasonnewer dance",
+			"indices": [
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 20,
+			"name": "jasonnewer dance",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				-69
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "jasonnewer down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-173,
+				136
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "jasonnewer up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				151,
+				32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jasonnewer left"
+		},
+		{
+			"offsets": [
+				-178,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jasonnewer right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jasonnewer",
+	"position": [
+		-50,
+		190
+	],
+	"healthicon": "icon-jasonnewer",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		199,
+		80
+	],
+	"camera_position": [
+		-10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

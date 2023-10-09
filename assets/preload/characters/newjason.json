@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "jason left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "jason right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				96
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "jason up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "jason down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				2
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "jason idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				0
+			]
+		},
+		{
+			"offsets": [
+				11,
+				90
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				2,
+				1,
+				0,
+				1,
+				2,
+				3,
+				2,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "yay",
+			"loop": false,
+			"name": "jason yay"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jason",
+	"position": [
+		80,
+		220
+	],
+	"healthicon": "icon-jason",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		50,
+		50
+	],
+	"camera_position": [
+		10,
+		-120
+	],
+	"sing_duration": 2.2,
+	"scale": 3.2
+}

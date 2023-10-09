@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sing-jason.png">
+<SubTexture name="sing-jason idle0000" x="238" y="154" width="100" height="121" frameX="-55" frameY="-53" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason idle0001" x="174" y="294" width="160" height="103" frameX="-25" frameY="-71" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason idle0002" x="405" y="120" width="125" height="115" frameX="-46" frameY="-59" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason idle0003" x="238" y="154" width="100" height="121" frameX="-55" frameY="-53" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason down0000" x="405" y="0" width="144" height="120" frameX="-36" frameY="-80" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason down0001" x="0" y="294" width="174" height="105" frameX="-20" frameY="-95" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason left0000" x="188" y="0" width="103" height="146" frameX="-45" frameY="-54" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason left0001" x="291" y="0" width="114" height="140" frameX="-35" frameY="-62" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason right0000" x="0" y="154" width="114" height="140" frameX="-45" frameY="-65" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason right0001" x="114" y="154" width="124" height="130" frameX="-51" frameY="-78" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason up0000" x="88" y="0" width="100" height="147" frameX="-55" frameY="-53" frameWidth="212" frameHeight="213" />
+<SubTexture name="sing-jason up0001" x="0" y="0" width="88" height="154" frameX="-60" frameY="-46" frameWidth="212" frameHeight="213" />
+</TextureAtlas>

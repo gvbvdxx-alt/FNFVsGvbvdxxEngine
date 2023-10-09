@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "segt v2 idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "segt v2 left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "segt v2 right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "segt v2 up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "segt v2 down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/segt v2",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "segtv2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		166,
+		166
+	],
+	"camera_position": [
+		30,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2.3
+}

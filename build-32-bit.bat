@@ -1,0 +1,1 @@
+lime build windows -32 -release -D 32bits -D HXCPP_M32

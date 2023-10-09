@@ -1,0 +1,174 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceLeft",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				0
+			],
+			"name": "jasonnewer dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [
+				0
+			],
+			"name": "jasonnewer dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceRight",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				0
+			],
+			"name": "jasonnewer dance"
+		},
+		{
+			"offsets": [
+				-39,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jasonnewer right"
+		},
+		{
+			"offsets": [
+				-228,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jasonnewer left"
+		},
+		{
+			"offsets": [
+				-92,
+				-39
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jasonnewer down"
+		},
+		{
+			"offsets": [
+				-93,
+				75
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jasonnewer up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				-80
+			],
+			"anim": "singLEFTmiss",
+			"fps": 6,
+			"name": "jasonnewer miss",
+			"indices": [
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-267,
+				-110
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 6,
+			"name": "jasonnewer miss",
+			"indices": [
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				20
+			],
+			"anim": "singUPmiss",
+			"fps": 6,
+			"name": "jasonnewer miss",
+			"indices": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				-128
+			],
+			"anim": "singDOWNmiss",
+			"fps": 6,
+			"name": "jasonnewer miss",
+			"indices": [
+				1,
+				1,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jasonnewer",
+	"position": [
+		-50,
+		190
+	],
+	"healthicon": "icon-jasonnewer",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		199,
+		80
+	],
+	"camera_position": [
+		-10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

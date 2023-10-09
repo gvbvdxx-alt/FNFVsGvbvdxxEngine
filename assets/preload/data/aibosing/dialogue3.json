@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gydialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh* Ok fine..."
+		}
+	]
+}

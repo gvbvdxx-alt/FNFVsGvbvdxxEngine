@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TheDancingDuo.png"><SubTexture name="TheDancingDuo Dancee0000" x="0" y="0" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0001" x="676" y="0" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0002" x="1352" y="0" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0003" x="0" y="508" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0004" x="676" y="508" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0005" x="1352" y="508" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0006" x="0" y="1016" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0007" x="676" y="1016" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0008" x="1352" y="1016" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0009" x="0" y="1524" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0010" x="676" y="1524" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+<SubTexture name="TheDancingDuo Dancee0011" x="1352" y="1524" width="676" height="508" frameX="0" frameY="0" frameWidth="676" frameHeight="508" />
+</TextureAtlas>

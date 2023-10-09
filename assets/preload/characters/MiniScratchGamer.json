@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "MiniScratchGamer Idle"
+		},
+		{
+			"offsets": [
+				-57,
+				-52
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MiniScratchGamer Down"
+		},
+		{
+			"offsets": [
+				-19,
+				15
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MiniScratchGamer Up"
+		},
+		{
+			"offsets": [
+				-71,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MiniScratchGamer Miss"
+		},
+		{
+			"offsets": [
+				-71,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MiniScratchGamer Miss"
+		},
+		{
+			"offsets": [
+				-71,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MiniScratchGamer Miss"
+		},
+		{
+			"offsets": [
+				-72,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MiniScratchGamer Miss"
+		},
+		{
+			"offsets": [
+				83,
+				-9
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MiniScratchGamer Right"
+		},
+		{
+			"offsets": [
+				-82,
+				-11
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MiniScratchGamer Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MiniScratchGamer",
+	"position": [
+		90,
+		350
+	],
+	"healthicon": "miniscratchgamer",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		40,
+		255
+	],
+	"camera_position": [
+		100,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

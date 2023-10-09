@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jasonnewer.png">
+<SubTexture name="jasonnewer miss0000" x="0" y="703" width="309" height="339" frameX="0" frameY="0" frameWidth="309" frameHeight="339" />
+<SubTexture name="jasonnewer miss0001" x="827" y="703" width="237" height="333" frameX="0" frameY="0" frameWidth="237" frameHeight="333" />
+<SubTexture name="jasonnewer miss0002" x="300" y="0" width="336" height="351" frameX="0" frameY="0" frameWidth="336" frameHeight="351" />
+<SubTexture name="jasonnewer miss0003" x="1064" y="703" width="165" height="333" frameX="0" frameY="0" frameWidth="165" frameHeight="333" />
+<SubTexture name="jasonnewer up0000" x="492" y="354" width="312" height="342" frameX="-30" frameY="-23" frameWidth="378" frameHeight="399" />
+<SubTexture name="jasonnewer up0001" x="955" y="0" width="312" height="342" frameX="-30" frameY="-29" frameWidth="378" frameHeight="399" />
+<SubTexture name="jasonnewer up0002" x="955" y="342" width="312" height="342" frameX="-30" frameY="-33" frameWidth="378" frameHeight="399" />
+<SubTexture name="jasonnewer down0000" x="247" y="1374" width="239" height="298" frameX="-65" frameY="-64" frameWidth="378" frameHeight="399" />
+<SubTexture name="jasonnewer down0001" x="1014" y="1042" width="225" height="312" frameX="-72" frameY="-50" frameWidth="378" frameHeight="399" />
+<SubTexture name="jasonnewer down0002" x="801" y="1042" width="213" height="315" frameX="-78" frameY="-47" frameWidth="378" frameHeight="399" />
+<SubTexture name="jasonnewer left0000" x="198" y="1042" width="171" height="329" frameX="-214" frameY="-93" frameWidth="411" frameHeight="453" />
+<SubTexture name="jasonnewer left0001" x="1267" y="0" width="165" height="332" frameX="-223" frameY="-90" frameWidth="411" frameHeight="453" />
+<SubTexture name="jasonnewer left0002" x="666" y="703" width="161" height="334" frameX="-225" frameY="-88" frameWidth="411" frameHeight="453" />
+<SubTexture name="jasonnewer right0000" x="154" y="354" width="338" height="344" frameX="-21" frameY="-71" frameWidth="411" frameHeight="453" />
+<SubTexture name="jasonnewer right0001" x="636" y="0" width="319" height="350" frameX="-25" frameY="-66" frameWidth="411" frameHeight="453" />
+<SubTexture name="jasonnewer right0002" x="0" y="0" width="300" height="354" frameX="-31" frameY="-61" frameWidth="411" frameHeight="453" />
+<SubTexture name="jasonnewer dance0000" x="0" y="354" width="154" height="349" frameX="-214" frameY="-44" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0001" x="0" y="1374" width="247" height="300" frameX="-121" frameY="-93" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0002" x="1432" y="0" width="229" height="308" frameX="-139" frameY="-85" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0003" x="589" y="1042" width="212" height="327" frameX="-156" frameY="-66" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0004" x="0" y="1042" width="198" height="332" frameX="-170" frameY="-61" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0005" x="1661" y="0" width="234" height="304" frameX="-236" frameY="-89" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0006" x="369" y="1042" width="220" height="329" frameX="-209" frameY="-64" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0007" x="480" y="703" width="186" height="335" frameX="-214" frameY="-58" frameWidth="552" frameHeight="453" />
+<SubTexture name="jasonnewer dance0008" x="309" y="703" width="171" height="338" frameX="-216" frameY="-55" frameWidth="552" frameHeight="453" />
+</TextureAtlas>

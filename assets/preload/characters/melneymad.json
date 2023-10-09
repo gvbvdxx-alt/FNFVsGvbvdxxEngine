@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				90
+			],
+			"anim": "yay",
+			"fps": 25,
+			"name": "jason yay",
+			"indices": []
+		},
+		{
+			"offsets": [
+				17,
+				22
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "melneymad left"
+		},
+		{
+			"offsets": [
+				-49,
+				35
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "melneymad right"
+		},
+		{
+			"offsets": [
+				-86,
+				11
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singUP",
+			"loop": false,
+			"name": "melneymad up"
+		},
+		{
+			"offsets": [
+				-61,
+				2
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "idle",
+			"loop": false,
+			"name": "melneymad idle"
+		},
+		{
+			"offsets": [
+				-47,
+				-5
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "melneymad down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/melneymad",
+	"position": [
+		80,
+		160
+	],
+	"healthicon": "melney",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		193
+	],
+	"camera_position": [
+		10,
+		-120
+	],
+	"sing_duration": 2.2,
+	"scale": 1.8
+}
