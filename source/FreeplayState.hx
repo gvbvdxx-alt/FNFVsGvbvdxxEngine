@@ -367,7 +367,9 @@ class FreeplayState extends MusicBeatState
 			}*/
 			trace(poop);
 			
+			#if MODS_ALLOWED
 			if(sys.FileSystem.exists(Paths.modsJson(songLowercase + '/' + poop)) || sys.FileSystem.exists(Paths.json(songLowercase + '/' + poop))) {//fix an issue where any song in the mods folder would return an error even if both the json and song files existed
+			#end
 			PlayState.SONG = Song.loadFromJson(poop, songLowercase);
 			PlayState.isStoryMode = false;
 			PlayState.storyDifficulty = curDifficulty;
@@ -388,7 +390,7 @@ class FreeplayState extends MusicBeatState
 			FlxG.sound.music.volume = 0;
 					
 			destroyFreeplayVocals();
-
+			#if PRELOAD_ALL
 					} else {
 					if(sys.FileSystem.exists(Paths.inst(poop + '/'  + poop)) && !sys.FileSystem.exists(Paths.json(poop + '/' + poop))) { //the json doesn't exist, but the song files do, or you put a typo in the name
 							CoolUtil.coolError("The JSON's name does not match with  " + poop + "!\nTry making them match.", "FNF VS Gvbvdxx Engine Anti-Crash Tool (Credit to the devlopers of JS Engine!)");
@@ -397,7 +399,9 @@ class FreeplayState extends MusicBeatState
 				} else if(!sys.FileSystem.exists(Paths.json(poop + '/' + poop)) && !sys.FileSystem.exists(Paths.inst(poop + '/'  + poop))) { //neither the json nor the song files actually exist
 					CoolUtil.coolError("It appears that " + poop + " doesn't actually have a JSON, nor does it actually have voices/instrumental files!\nMaybe try fixing its name in weeks/" + WeekData.getWeekFileName() + "?", "FNF VS Gvbvdxx Engine Anti-Crash Tool (Credit to the devlopers of JS Engine!)");
 				}
+			
 			}
+			#end
 		}
 		else if(controls.RESET)
 		{
