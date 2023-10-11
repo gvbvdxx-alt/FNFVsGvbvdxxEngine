@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zombiedude4712-2.png">
+<SubTexture name="zombiedude4712-2 idle0000" x="275" y="261" width="136" height="236" frameX="-125" frameY="-74" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 idle0001" x="277" y="500" width="139" height="234" frameX="-132" frameY="-76" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 idle0002" x="411" y="261" width="137" height="236" frameX="-128" frameY="-74" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 idle0003" x="639" y="0" width="137" height="236" frameX="-125" frameY="-74" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 down0000" x="925" y="0" width="158" height="221" frameX="-114" frameY="-89" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 down0001" x="776" y="0" width="149" height="225" frameX="-118" frameY="-85" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 down0002" x="639" y="236" width="134" height="233" frameX="-124" frameY="-77" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 fling0000" x="0" y="0" width="222" height="261" frameX="-74" frameY="-40" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 left0000" x="555" y="500" width="142" height="231" frameX="-130" frameY="-79" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 left0001" x="416" y="500" width="139" height="234" frameX="-130" frameY="-76" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 left0002" x="139" y="500" width="138" height="235" frameX="-128" frameY="-75" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 right0000" x="0" y="500" width="139" height="236" frameX="-121" frameY="-74" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 right0001" x="0" y="261" width="137" height="239" frameX="-123" frameY="-71" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 right0002" x="137" y="261" width="138" height="238" frameX="-124" frameY="-72" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 up0000" x="222" y="0" width="133" height="248" frameX="-128" frameY="-62" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 up0001" x="355" y="0" width="139" height="246" frameX="-128" frameY="-64" frameWidth="389" frameHeight="389" />
+<SubTexture name="zombiedude4712-2 up0002" x="494" y="0" width="145" height="243" frameX="-126" frameY="-67" frameWidth="389" frameHeight="389" />
+</TextureAtlas>

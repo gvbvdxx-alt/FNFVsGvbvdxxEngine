@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sing-jason-menu.png">
+<SubTexture name="sing-jason-menu idle0000" x="0" y="0" width="250" height="292" frameX="-2" frameY="0" frameWidth="252" frameHeight="292" />
+<SubTexture name="sing-jason-menu idle0001" x="0" y="292" width="369" height="251" frameX="0" frameY="0" frameWidth="369" frameHeight="251" />
+<SubTexture name="sing-jason-menu idle0002" x="523" y="0" width="299" height="273" frameX="0" frameY="0" frameWidth="299" frameHeight="273" />
+<SubTexture name="sing-jason-menu idle0003" x="250" y="0" width="273" height="284" frameX="0" frameY="0" frameWidth="273" frameHeight="284" />
+</TextureAtlas>

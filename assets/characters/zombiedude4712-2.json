@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "zombiedude4712-2 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "zombiedude4712-2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "zombiedude4712-2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "zombiedude4712-2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "zombiedude4712-2 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/zombiedude4712-2",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "zombiedude4712",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		43,
+		43
+	],
+	"camera_position": [
+		-300,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jason.png">
+<SubTexture name="jason idle0000" x="310" y="0" width="95" height="203" frameX="-13" frameY="-2" frameWidth="140" frameHeight="207" />
+<SubTexture name="jason idle0001" x="548" y="430" width="106" height="172" frameX="-29" frameY="-33" frameWidth="140" frameHeight="207" />
+<SubTexture name="jason idle0002" x="665" y="369" width="100" height="182" frameX="-23" frameY="-23" frameWidth="140" frameHeight="207" />
+<SubTexture name="jason idle0003" x="437" y="229" width="95" height="193" frameX="-18" frameY="-12" frameWidth="140" frameHeight="207" />
+<SubTexture name="jason right0000" x="142" y="229" width="153" height="200" frameX="-13" frameY="-6" frameWidth="179" frameHeight="212" />
+<SubTexture name="jason right0001" x="295" y="229" width="142" height="200" frameX="-15" frameY="-6" frameWidth="179" frameHeight="212" />
+<SubTexture name="jason right0002" x="405" y="0" width="129" height="202" frameX="-18" frameY="-5" frameWidth="179" frameHeight="212" />
+<SubTexture name="jason down0000" x="422" y="430" width="126" height="186" frameX="-39" frameY="-18" frameWidth="206" frameHeight="206" />
+<SubTexture name="jason down0001" x="300" y="430" width="122" height="192" frameX="-41" frameY="-12" frameWidth="206" frameHeight="206" />
+<SubTexture name="jason down0002" x="534" y="200" width="115" height="195" frameX="-44" frameY="-7" frameWidth="206" frameHeight="206" />
+<SubTexture name="jason left0000" x="665" y="0" width="178" height="185" frameX="-4" frameY="-22" frameWidth="196" frameHeight="209" />
+<SubTexture name="jason left0001" x="0" y="430" width="149" height="197" frameX="-38" frameY="-10" frameWidth="196" frameHeight="209" />
+<SubTexture name="jason left0002" x="534" y="0" width="131" height="200" frameX="-56" frameY="-6" frameWidth="196" frameHeight="209" />
+<SubTexture name="jason up0000" x="665" y="185" width="159" height="184" frameX="-10" frameY="-3" frameWidth="178" frameHeight="216" />
+<SubTexture name="jason up0001" x="149" y="430" width="151" height="194" frameX="-12" frameY="-10" frameWidth="178" frameHeight="216" />
+<SubTexture name="jason up0002" x="0" y="229" width="142" height="201" frameX="-18" frameY="-13" frameWidth="178" frameHeight="216" />
+<SubTexture name="jason yay0000" x="0" y="0" width="96" height="229" frameX="-15" frameY="-4" frameWidth="120" frameHeight="235" />
+<SubTexture name="jason yay0001" x="96" y="0" width="104" height="225" frameX="-10" frameY="-8" frameWidth="120" frameHeight="235" />
+<SubTexture name="jason yay0002" x="200" y="0" width="110" height="219" frameX="-6" frameY="-14" frameWidth="120" frameHeight="235" />
+</TextureAtlas>

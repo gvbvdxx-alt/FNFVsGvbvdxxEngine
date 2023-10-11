@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="derpy.png">
+<SubTexture name="derpy down0000" x="629" y="129" width="151" height="127" frameX="-8" frameY="-21" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy down0001" x="323" y="463" width="147" height="137" frameX="-9" frameY="-10" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy down0002" x="471" y="289" width="144" height="143" frameX="-9" frameY="-1" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy left0000" x="0" y="0" width="119" height="159" frameX="-19" frameY="-5" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy left0001" x="119" y="0" width="112" height="157" frameX="-30" frameY="-3" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy left0002" x="231" y="0" width="114" height="156" frameX="-30" frameY="-4" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy right0000" x="148" y="463" width="175" height="140" frameX="-10" frameY="-23" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy up0000" x="0" y="463" width="148" height="143" frameX="-11" frameY="-1" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy up0001" x="471" y="145" width="150" height="144" frameX="-11" frameY="-9" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy idle0000" x="151" y="313" width="147" height="147" frameX="-11" frameY="-13" frameWidth="167" frameHeight="167" />
+<SubTexture name="derpy idleleft0000" x="0" y="159" width="131" height="154" frameX="-57" frameY="-9" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy idleleft0001" x="345" y="151" width="122" height="142" frameX="-53" frameY="-21" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy idleleft0002" x="345" y="0" width="126" height="151" frameX="-57" frameY="-12" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy idleleft0003" x="131" y="159" width="129" height="154" frameX="-58" frameY="-9" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy idleright0000" x="629" y="0" width="167" height="129" frameX="-10" frameY="-31" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy idleright0001" x="470" y="463" width="142" height="137" frameX="-10" frameY="-23" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy idleright0002" x="298" y="313" width="135" height="147" frameX="-10" frameY="-13" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy right0001" x="471" y="0" width="158" height="145" frameX="-11" frameY="-22" frameWidth="202" frameHeight="167" />
+<SubTexture name="derpy right0002" x="0" y="313" width="151" height="150" frameX="-2" frameY="-20" frameWidth="202" frameHeight="170" />
+</TextureAtlas>

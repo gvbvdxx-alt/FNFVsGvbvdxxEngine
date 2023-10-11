@@ -1,0 +1,94 @@
+{
+	"songs": [
+		[
+			"donirap",
+			"donibobes",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"coderz",
+			"zombiedude4712",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"milk",
+			"segtv2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"milk-invasion",
+			"zombiedude4712",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"figsonic",
+			"jokesonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"pb-extended",
+			"sonicdancing",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sonicandtails",
+			"sonicdancing",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"arvsm2",
+			"icon-eibo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Scratchasm",
+	"weekName": "Scratchasm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true,
+	"difficulties": "Normal"
+}

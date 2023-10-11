@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Eibo.png">
+<SubTexture name="Eibo Up0000" x="0" y="0" width="400" height="647" frameX="-46" frameY="-40" frameWidth="518" frameHeight="700" />
+<SubTexture name="Eibo Up0001" x="400" y="0" width="409" height="636" frameX="-42" frameY="-51" frameWidth="518" frameHeight="700" />
+<SubTexture name="Eibo Up0002" x="809" y="0" width="399" height="627" frameX="-42" frameY="-60" frameWidth="518" frameHeight="700" />
+<SubTexture name="Eibo Down0000" x="1719" y="506" width="413" height="475" frameX="-98" frameY="-91" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Down0001" x="0" y="1201" width="410" height="516" frameX="-88" frameY="-49" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Down0002" x="0" y="647" width="417" height="554" frameX="-96" frameY="-12" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Left0000" x="2150" y="0" width="467" height="503" frameX="-39" frameY="-67" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Left0001" x="1271" y="1201" width="445" height="507" frameX="-72" frameY="-63" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Left0002" x="1719" y="0" width="431" height="506" frameX="-84" frameY="-65" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Right0000" x="1208" y="0" width="511" height="523" frameX="-28" frameY="-41" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Right0001" x="1208" y="523" width="479" height="516" frameX="-31" frameY="-50" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Right0002" x="820" y="1201" width="451" height="511" frameX="-37" frameY="-53" frameWidth="581" frameHeight="581" />
+<SubTexture name="Eibo Idle0000" x="410" y="1201" width="410" height="515" frameX="-79" frameY="-37" frameWidth="605" frameHeight="581" />
+<SubTexture name="Eibo Idle0001" x="2150" y="1001" width="410" height="495" frameX="-79" frameY="-57" frameWidth="605" frameHeight="581" />
+<SubTexture name="Eibo Idle0002" x="2150" y="503" width="410" height="498" frameX="-79" frameY="-54" frameWidth="605" frameHeight="581" />
+<SubTexture name="Eibo Idle0003" x="417" y="647" width="410" height="533" frameX="-79" frameY="-19" frameWidth="605" frameHeight="581" />
+</TextureAtlas>

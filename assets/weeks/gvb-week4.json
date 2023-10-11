@@ -1,0 +1,51 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "derpyworld",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"derpy-sing",
+			"icon-jason",
+			[
+				50,
+				50,
+				50
+			]
+		],
+		[
+			"derpiestsing",
+			"icon-jason",
+			[
+				50,
+				50,
+				50
+			]
+		],
+		[
+			"peanos",
+			"peano-jason",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week",
+	"difficulties": "Normal"
+}

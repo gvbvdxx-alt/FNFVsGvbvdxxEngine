@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky sing right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "spooky dance idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				34
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "spooky UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "spooky DOWN note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dancingsonic",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "sonicdancing",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		140,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.799999999999999
+}

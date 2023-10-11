@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="melneymad.png">
+<SubTexture name="melneymad right0000" x="0" y="0" width="237" height="388" frameX="0" frameY="0" frameWidth="237" frameHeight="388" />
+<SubTexture name="melneymad left0000" x="237" y="0" width="278" height="377" frameX="0" frameY="0" frameWidth="278" frameHeight="377" />
+<SubTexture name="melneymad up0000" x="515" y="0" width="208" height="372" frameX="0" frameY="0" frameWidth="208" frameHeight="372" />
+<SubTexture name="melneymad down0000" x="723" y="0" width="209" height="366" frameX="0" frameY="0" frameWidth="209" frameHeight="366" />
+<SubTexture name="melneymad idle0000" x="0" y="388" width="182" height="366" frameX="0" frameY="0" frameWidth="182" frameHeight="366" />
+</TextureAtlas>

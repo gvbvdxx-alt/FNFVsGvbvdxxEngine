@@ -1,0 +1,58 @@
+{
+	"storyName": "Make Me Sing!",
+	"hideFreeplay": false,
+	"weekBackground": "makemesing",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"uglysing",
+			"sing-jason",
+			[
+				150,
+				138,
+				87
+			]
+		],
+		[
+			"obsession",
+			"sing-jason",
+			[
+				150,
+				138,
+				87
+			]
+		],
+		[
+			"gogvbvdxx",
+			"sing-jason",
+			[
+				150,
+				138,
+				87
+			]
+		],
+		[
+			"singingpro",
+			"sing-jason",
+			[
+				150,
+				138,
+				87
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Make Me Sing!",
+	"difficulties": "Normal"
+}

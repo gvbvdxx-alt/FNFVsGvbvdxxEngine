@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-37
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "donibobes idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-37
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "donibobes right"
+		},
+		{
+			"offsets": [
+				-2,
+				-38
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "donibobes left"
+		},
+		{
+			"offsets": [
+				1,
+				-38
+			],
+			"loop": false,
+			"fps": 50,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "donibobes down"
+		},
+		{
+			"offsets": [
+				-3,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "donibobes up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/donibobes",
+	"position": [
+		-150,
+		330
+	],
+	"healthicon": "donibobes",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		19,
+		0
+	],
+	"camera_position": [
+		-220,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 2.7
+}

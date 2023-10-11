@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MiniScratchGamer.png">
+<SubTexture name="MiniScratchGamer Idle0000" x="0" y="312" width="201" height="299" frameX="-12" frameY="-8" frameWidth="265" frameHeight="308" />
+<SubTexture name="MiniScratchGamer Idle0001" x="0" y="905" width="213" height="284" frameX="-12" frameY="-23" frameWidth="265" frameHeight="308" />
+<SubTexture name="MiniScratchGamer Idle0002" x="1040" y="0" width="206" height="291" frameX="-12" frameY="-16" frameWidth="265" frameHeight="308" />
+<SubTexture name="MiniScratchGamer Idle0003" x="837" y="0" width="203" height="294" frameX="-12" frameY="-13" frameWidth="265" frameHeight="308" />
+<SubTexture name="MiniScratchGamer Left0000" x="636" y="297" width="194" height="295" frameX="-31" frameY="-9" frameWidth="252" frameHeight="304" />
+<SubTexture name="MiniScratchGamer Left0001" x="837" y="294" width="194" height="294" frameX="-29" frameY="-9" frameWidth="252" frameHeight="304" />
+<SubTexture name="MiniScratchGamer Left0002" x="0" y="611" width="195" height="294" frameX="-27" frameY="-9" frameWidth="252" frameHeight="304" />
+<SubTexture name="MiniScratchGamer Right0000" x="195" y="611" width="215" height="294" frameX="-7" frameY="-8" frameWidth="268" frameHeight="302" />
+<SubTexture name="MiniScratchGamer Right0001" x="410" y="611" width="218" height="293" frameX="-1" frameY="-8" frameWidth="268" frameHeight="302" />
+<SubTexture name="MiniScratchGamer Right0002" x="628" y="611" width="218" height="293" frameX="-1" frameY="-8" frameWidth="268" frameHeight="302" />
+<SubTexture name="MiniScratchGamer Up0000" x="0" y="0" width="212" height="312" frameX="-31" frameY="-5" frameWidth="268" frameHeight="319" />
+<SubTexture name="MiniScratchGamer Up0001" x="212" y="0" width="212" height="311" frameX="-31" frameY="-6" frameWidth="268" frameHeight="319" />
+<SubTexture name="MiniScratchGamer Up0002" x="424" y="0" width="212" height="307" frameX="-31" frameY="-10" frameWidth="268" frameHeight="319" />
+<SubTexture name="MiniScratchGamer Down0000" x="641" y="905" width="214" height="262" frameX="-7" frameY="-17" frameWidth="225" frameHeight="279" />
+<SubTexture name="MiniScratchGamer Down0001" x="427" y="905" width="214" height="262" frameX="-7" frameY="-16" frameWidth="225" frameHeight="279" />
+<SubTexture name="MiniScratchGamer Down0002" x="213" y="905" width="214" height="262" frameX="-7" frameY="-16" frameWidth="225" frameHeight="279" />
+<SubTexture name="MiniScratchGamer Miss0000" x="201" y="312" width="201" height="299" frameX="-30" frameY="-7" frameWidth="241" frameHeight="308" />
+<SubTexture name="MiniScratchGamer Miss0001" x="636" y="0" width="201" height="297" frameX="-30" frameY="-9" frameWidth="241" frameHeight="308" />
+<SubTexture name="MiniScratchGamer Miss0002" x="402" y="312" width="201" height="297" frameX="-30" frameY="-9" frameWidth="241" frameHeight="308" />
+</TextureAtlas>

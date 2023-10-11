@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gydialouge.png">
+<SubTexture name="gydialouge mad0000" x="0" y="0" width="219" height="220" frameX="0" frameY="0" frameWidth="219" frameHeight="220" />
+<SubTexture name="gydialouge shocked0000" x="219" y="0" width="218" height="218" frameX="0" frameY="0" frameWidth="218" frameHeight="218" />
+</TextureAtlas>

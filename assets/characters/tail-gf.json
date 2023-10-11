@@ -1,0 +1,41 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "Tail bouncyidle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tail",
+	"position": [
+		10,
+		-140
+	],
+	"healthicon": "icon-tail",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		128,
+		2
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

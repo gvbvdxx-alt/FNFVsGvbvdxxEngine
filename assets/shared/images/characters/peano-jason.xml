@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peano-jason.png">
+<SubTexture name="right0000" x="582" y="0" width="244" height="216" frameX="0" frameY="0" frameWidth="244" frameHeight="216" />
+<SubTexture name="down0000" x="0" y="246" width="232" height="226" frameX="0" frameY="0" frameWidth="232" frameHeight="226" />
+<SubTexture name="left0000" x="232" y="246" width="232" height="226" frameX="0" frameY="0" frameWidth="232" frameHeight="226" />
+<SubTexture name="up0000" x="360" y="0" width="222" height="239" frameX="0" frameY="0" frameWidth="222" frameHeight="239" />
+<SubTexture name="idleright0000" x="0" y="0" width="180" height="246" frameX="0" frameY="0" frameWidth="180" frameHeight="246" />
+<SubTexture name="idleleft0000" x="180" y="0" width="180" height="246" frameX="0" frameY="0" frameWidth="180" frameHeight="246" />
+</TextureAtlas>

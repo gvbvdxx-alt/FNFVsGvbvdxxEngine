@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="arreal.png">
+<SubTexture name="arreal idle0000" x="0" y="0" width="140" height="105" frameX="-62" frameY="-36" frameWidth="233" frameHeight="177" />
+</TextureAtlas>
